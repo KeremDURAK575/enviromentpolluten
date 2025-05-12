@@ -1,1 +1,2 @@
-# enviromentpolluten
+#Google Teachable Machine de temiz çevre ve kirli çevre olmak üzere iki tane grup yani sınıf oluşturacağım sonra herhan gibi biri oraya fotoraf atacak ve ona o olduğu yani yaşadığı yerin temiz mi yoksa kirli mi olduğunu görür ve ona göre hareket eder mesela temiz çevre 
+daha yüksek çıktı bunu yapmadan önce ne yapıyorsa aynısını yapabilir yada kirli çevre çıktı o zaman daha düzenli olabilir yani bu proje sayesinde insan daha bilinçli olur.
